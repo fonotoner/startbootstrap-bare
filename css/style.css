@@ -1,0 +1,22 @@
+body {
+    font-size: 2em;
+}
+
+.logo {
+    font-family: 'Oleo Script', cursive;
+    font-size: 3em;
+    color: crimson !important;
+}
+.logo:hover {
+    color: white !important;
+}
+.menutop {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.3em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.menutop .nav {
+    padding: 5px 30px;
+}
